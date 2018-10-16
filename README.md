@@ -4,7 +4,7 @@
 
 ## To View Live
 
-* Go to: https://www.startwithaskateboard.com/MusixTube/
+* Go to: [MusixTube](https://www.startwithaskateboard.com/MusixTube/)
 
 ![musix](./assets/images/musix.PNG)
 
