@@ -4,7 +4,10 @@
 
 ## To View Live
 
-* Go to: https://www.startwithaskateboard.com/musixTube
+* Go to: https://www.startwithaskateboard.com/MusixTube/
+
+![musix](./assets/images/musix.PNG)
+
 
 ## Install Locally
 
